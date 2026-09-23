@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="CreAPP Software Lab Banner" src="https://raw.githubusercontent.com/Creapp-apps/Creapp-apps/main/assets/banner.png" />
+<img width="100%" alt="CreAPP Software Lab Banner" src="https://raw.githubusercontent.com/Creapp-apps/Creapp-apps/main/assets/creapp-banner.png" />
 
 # ⚡ CreAPP — Software Engineering & Innovation Lab
 **Architecting & Shipping Production-Grade SaaS, Real-Time IoT Systems & Enterprise Solutions**
