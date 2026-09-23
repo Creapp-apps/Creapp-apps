@@ -52,8 +52,11 @@ Domains:      Industrial IoT Telemetry • Multi-tenant SaaS • Custom CRMs •
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Creapp-apps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="CreAPP GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creapp-apps&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Creapp-apps&theme=tokyonight&hide_border=true" alt="CreAPP GitHub Streak" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Active_SaaS_Platforms-6_Production_Systems-FF2A85?style=flat-square&logo=rocket&logoColor=white" alt="Active SaaS" />
+  <img src="https://img.shields.io/badge/Core_Stack-TypeScript_%26_Next.js-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Core Stack" />
+  <img src="https://img.shields.io/badge/Architecture-IoT_Telemetry_%26_Cloud-00DC82?style=flat-square&logo=vercel&logoColor=white" alt="Architecture" />
 </div>
 
 ---
