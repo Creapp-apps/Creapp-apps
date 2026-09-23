@@ -64,7 +64,7 @@ Domains:      Industrial IoT Telemetry • Multi-tenant SaaS • Custom CRMs •
 ### 📬 Get In Touch
 
 - 🌐 **Official Platform:** [creapp-web-page.vercel.app](https://creapp-web-page.vercel.app)
-- 💼 **LinkedIn (Founder):** [Sebastián Maza](https://linkedin.com)
+- 💼 **LinkedIn (Founder):** [Sebastián Maza](https://www.linkedin.com/in/sebastian-maza-071995388/)
 - 🤝 **Collaboration & Opportunities:** Open to high-impact software engineering roles, enterprise consulting, and technical leadership.
 
 <div align="center">
